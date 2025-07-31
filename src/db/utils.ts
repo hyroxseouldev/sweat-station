@@ -1,3 +1,4 @@
+/* eslint-disable @typescript-eslint/no-explicit-any, @typescript-eslint/no-unused-vars */
 import { eq, desc, asc, count } from "drizzle-orm";
 import { db } from "./index";
 
